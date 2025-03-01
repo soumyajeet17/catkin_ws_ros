@@ -1,0 +1,8 @@
+prefix=/home/soumyajeet17/catkin_ws/install
+
+Name: arduino_node_test1
+Description: Description of arduino_node_test1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

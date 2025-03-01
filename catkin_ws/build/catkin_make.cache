@@ -1,0 +1,2 @@
+arduino_node_test1:begin_tuto:pkg2
+-DCATKIN_DEVEL_PREFIX=/home/soumyajeet17/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/soumyajeet17/catkin_ws/install -G Unix Makefiles
